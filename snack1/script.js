@@ -23,4 +23,4 @@ bikesArray.forEach(function (bike) {
 });
 
 // Stampo il risultato in console
-console.log("La bici più leggera è la: " + lightestBike.name + " con un peso di " + lightestBike.weight + " kg.");
+console.log("La bici più leggera è la: " + lightestBike.name + ", con un peso di " + lightestBike.weight + " kg.");
